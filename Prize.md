@@ -1,5 +1,5 @@
 
-# 🏆 Interactive Clothes：2026年度全商业级奖项申请时间轴 (Professional Only)
+# 026年度全商业级奖项申请时间轴 (Professional Only)
 
 ### **2026年 1月**
 
@@ -19,19 +19,18 @@
       * 🔗 **官网：** [Core77 Awards](https://designawards.core77.com/)
 
 
-  * **Jan 05 - Mar 11 | IDEA 2026 ** 
+  * **Jan 05 - Mar 11 | IDEA 2026** 
 
       * **类型：** 美国工业设计 (IDSA)
       * 🔗 **官网：** [IDEA Awards](https://www.idsa.org/awards-recognitions/idea/idea-faqs/)
 
 ### **2026年 2月**
 
-  * **Feb 28 | A' Design Award 2026 (Late Deadline 最终截止)**
+  * **2025 Apr 15 - 2026 Feb 28 | A' Design Award 2026**
 
       * **类型：** 意大利综合设计奖 
       * **类别：** `Wearable Technologies Design` (专业组)。
-      * **策略：** 虽然被称为“付费奖”，但它的获奖证书和 Logo 在亚洲商业市场（尤其分销商）中认可度尚可，适合作为商业背书的补充。
-      * 🔗 **官网：** [A' Design Award](https://competition.adesignaward.com/)
+      * 🔗 **官网：** [A' Design Award](https://competition.adesignaward.com/dates.html)
 
 ### **2026年 3月**
 
