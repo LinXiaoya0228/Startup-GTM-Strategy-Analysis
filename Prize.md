@@ -34,7 +34,7 @@
         
 ### **2026年 2月**
 
-  * **Now - Feb 28 | A' Design Award 2026 (Late Submission 截止)**
+  * **Now - Feb 28 | A' Design Award 2026 (Late Submission 截止)** 🛑
 
       * **类型：** 综合设计 (适合快速拿奖)
       * **适合类别：** `Wearable Technologies Design`
