@@ -75,10 +75,10 @@
 
 ### **2026年 5月**
 
-  * **Mid May | iF DESIGN AWARD 2027 (早鸟报名开启)** 
+  * **Mid May | iF DESIGN AWARD 2027** 
 
       * **类型：** 德国商业设计奖
-      * 🔗 **官网：** [iF Dates](https://www.google.com/search?q=https://ifdesign.com/en/dates-and-fees)
+      * 🔗 **官网：** [iF Dates](https://ifdesign.com/en/if-design-award-and-jury)
 
   * **May 15 | UX Design Awards (截止)** 🛑
 
@@ -110,8 +110,8 @@
 | **A' Design** | **综合设计** | Now | Feb 28 | 
 | **Core77 (Pro)** | **交互/HCI** | Jan 06 | Mar 27 | |
 | **Fast Company** | **商业/媒体** | Feb (预计) | Apr 25 (预计) | 
-| **UX Design Awards**| **交互体验** | Mar 01 | May 15 |  
-| **G-Mark** | **亚洲商业** | Apr 01 (预计)| May 22 (预计)|  
+| **UX Design Awards**| **交互** | Mar 01 | May 15 |  
+| **G-Mark** | **亚洲** | Apr 01 (预计)| May 22 (预计)|  
 | **Golden Pin** | **华人市场** | Mar 17 | Jun 24 | 
 | **iF DESIGN 2027** | **工业设计** | Mid May | Nov 05 (预计)| 
 | **CES 2027** | **科技消费** | Sep (预计) | TBD | 
@@ -120,34 +120,27 @@
 
 ```mermaid
 gantt
-    title Interactive Clothes 2026 商业奖项申请时间轴
+    title Interactive Clothing 2026 商业奖项申请时间轴
     dateFormat  YYYY-MM-DD
     axisFormat  %m月
     todayMarker off
 
-    section 🔴 极度紧急
+    section 🔴 紧急
     Red Dot (Latecomer截止 1.16)      :crit, done, 2026-01-01, 2026-01-16
     A' Design (Late截止 2.28)         :crit, active, 2026-01-01, 2026-02-28
 
-    section 🔵 核心商业奖
-    IDEA (常规报名)                   :active, 2026-01-05, 2026-03-11
-    Core77 (早鸟 -> 常规)             :active, 2026-01-06, 2026-03-27
+    section 🔵 Others
+    IDEA                    :active, 2026-01-05, 2026-03-11
+    Core77              :active, 2026-01-06, 2026-03-27
     Fast Company (预计)               :2026-02-01, 2026-04-25
-
-    section 🟡 亚洲与体验
     UX Design Awards          :2026-03-01, 2026-05-15
-    Golden Pin (金点设计奖)           :2026-03-17, 2026-06-24
-    G-Mark (日本优良设计奖)           :2026-04-01, 2026-05-22
+    Golden Pin            :2026-03-17, 2026-06-24
+    G-Mark (预计)           :2026-04-01, 2026-05-22
+    iF Design 2027         :2026-05-15, 2026-06-30
 
-    section 🟢 提前布局
-    iF Design 2027 (早鸟开启)         :2026-05-15, 2026-06-30
 ```
 
------
 
 
-                                                        |===================================|
-                                                        🇯🇵 G-Mark (4.1 - 5.22)
-                                                                          |
-                                                                          |========================>>
-                                                                          🇩🇪 iF 2027 早鸟 (5.15 起)
+
+
