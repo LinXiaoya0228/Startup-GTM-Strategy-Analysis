@@ -42,7 +42,7 @@ To capture leads at CES 2026, I co-developed a high-conversion Landing Page. I i
 
 <div align="center">
 
-### 📺 [Click Here to Watch the Full 1-Minute Walkthrough on YouTube](YOUR_YOUTUBE_VIDEO_LINK_HERE)
+### 📺 [Click Here to Watch the Full 1-Minute Walkthrough on YouTube](https://youtu.be/UrTLQHxSCOg)
 
 </div>
 
