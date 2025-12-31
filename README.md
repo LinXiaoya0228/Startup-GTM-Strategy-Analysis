@@ -146,7 +146,6 @@ gantt
     A' Design Award Deadline          :milestone, 2026-02-28, 1d
 
     section P3: Kickstarter
-    _ :p3pad, 2026-02-14, 1d
     Email Countdown                   :des10, 2026-03-01, 9d
     Kickstarter Launch                :crit, milestone, 2026-03-10, 1d
     External Traffic                  :des11, 2026-03-15, 15d
@@ -154,7 +153,6 @@ gantt
     Core77 Deadline                   :milestone, 2026-03-27, 1d
 
     section P4: Wrap‑up & CN Entry
-    _ :p4pad, 2026-03-17, 1d
     G‑Mark Opens                      :milestone, 2026-04-01, 1d
     KS Ends                           :crit, milestone, 2026-04-10, 1d
     MP Prep Start                     :des12, 2026-04-15, 1d
@@ -162,7 +160,6 @@ gantt
     FastCo Deadline                   :milestone, 2026-04-25, 1d
 
     section P5: 618 Campaign
-    _ :p5pad, 2026-04-25, 1d
     Tmall/JD Setup                    :des14, 2026-05-10, 1d
     iF Award Opens                    :milestone, 2026-05-15, 1d
     618 Pre‑Sale                      :crit, des15, 2026-05-26, 1d
@@ -170,7 +167,6 @@ gantt
     618 Peak                          :des17, 2026-06-15, 6d
 
     section P6: Fulfillment
-    _ :p6pad, 2026-06-16, 1d
     CN 618 Shipping Start             :des18, 2026-07-01, 1d
     User Community                    :des19, 2026-07-15, 1d
     CES 2027 Opens                    :milestone, 2026-09-01, 1d
