@@ -74,7 +74,6 @@ Beyond analysis, I served as the primary **Frontend Developer** for the campaign
 * **Tech Stack:** Vanilla JavaScript (Canvas-less physics).
 * **Implementation:** Built a custom orbital physics engine that maps 30+ icons to specific gravitational paths based on their category tags, allowing for dynamic filtering without page reloads.
 
-> **[Insert Orbit Interaction GIF Here]**
 
 ### 🎨 2. The High-Conversion Landing Page
 * **Objective**: Capture leads during CES 2026.
